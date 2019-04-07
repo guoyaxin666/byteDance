@@ -163,23 +163,30 @@ body{
 		margin-left: 40px;
 		margin-top: 30px;
 	}
-	.leibie,.leixing,.didian{
-		/*margin-top: 25px;*/
-	}
-	.zhiType input{
+	.leibie,.leixing{
 		margin-bottom: 25px;
-		margin-right: 24px;
-		padding: 0 10px;
-		border-radius: 2px;
-		background: white;
-		border: 0;
-		outline: none;
 	}
-	.didianBox{
+	.zhiType a{
+		display: inline-block;
+		padding: 5px 10px;
+		text-align: center;
+		line-height: 30px;
+		margin-right: 25px;
+		color: #000000;
+		text-decoration: none;
+	}
+	.aa{
 		width: 600px;
 	}
-	.page1{
-		width: 300px;
-		height: 200px;
-		/*background: blue;*/
+	.bb{
+		padding: 8px 0px;
 	}
+	.data{
+		width: 780px;
+		margin-left:-20px;
+	}
+	.data tr td{
+		padding-left: 35px;
+		height: 40px;		
+	}
+
